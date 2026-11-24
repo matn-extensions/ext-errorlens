@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.errorlens",
+  "name": "ErrorLens Inline Diagnostics",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Displays compiler and linter warnings/errors inline with highlighted category badges",
+  "category": "linters",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-errorlens"
+}
